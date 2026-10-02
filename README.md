@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there, I'm Selim Bozkurt 👋
 
-<!--
-**SlmBzkrtt/SlmBzkrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Istanbul, specializing in backend architectures, enterprise solutions, and modern cross-platform development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💼 Working on enterprise-grade software systems, ERP/CRM modules, and RESTful APIs.
+- 🛠️ Deeply focused on **.NET Ecosystem** (ASP.NET Core, MVC, C#) and relational databases (**MS SQL Server, T-SQL**).
+- 📱 Exploring and building cross-platform applications with **Flutter & Dart**.
+- 🎬 Passionate about visual storytelling, travel filmmaking, and tech.
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages & Frameworks:**
+`C#` `.NET 8` `ASP.NET Core` `Dart` `Flutter` `T-SQL` `JavaScript`
+
+**Database & Tools:**
+`MS SQL Server` `Entity Framework` `Git` `GitHub` `VS Code` `Postman`
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SlmBzkrtt&show_icons=true&theme=tokyonight" alt="Selim's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/selim-bozkurt](https://linkedin.com/in/selim-bozkurt)
+- **Instagram:** [@selimbozkurt.sb](https://instagram.com/selimbozkurt.sb)
+- **YouTube:** [@SelimBzkrtt](https://youtube.com/@SelimBzkrtt)
