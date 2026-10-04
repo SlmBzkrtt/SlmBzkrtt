@@ -32,4 +32,4 @@ Software Engineer based in Istanbul, specializing in backend architectures, ente
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/selim-bozkurt](https://linkedin.com/in/selim-bozkurt)
 - **Instagram:** [@selimbozkurt.sb](https://instagram.com/selimbozkurt.sb)
-- **YouTube:** [@SelimBzkrtt](https://youtube.com/@SelimBzkrtt)
+- **YouTube:** [@SelimBzkrtt](https://youtube.com/@SelimBozkurt)
